@@ -41,23 +41,23 @@ I'm a fullstack developer with a passion for cybersecurity, currently transition
 
 ---
 
-### GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cuyass&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuyass&layout=compact&theme=radical)
 
 ---
 
 ### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariona-cuyas)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cuyas.mariona@gmail.com)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/cuyas.png)](https://tryhackme.com/p/cuyas)
 
 ---
 
 > [!NOTE]
-- 🧠 High-Ability Learner with **ADHD** - I hyperfocus on problems until they're solved!
-- 🌈 Proud member of the **LGBTQ+ community**
-- 💡 Out-of-the-box thinker with **exceptional problem-solving skills**
-- 🛡️ I believe **cybersecurity** and **inclusivity** go hand in hand
+> 
+> Apart from building or breaking things, I'm also...
+> - A queer human navigating tech spaces
+> - Blessed and/or cursed with ADHD and High-Learning Abilities
+> - Finding unconventional solutions to conventional problems
+> - Convinced that diverse perspectives make for better security
 
 ---
 
