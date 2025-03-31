@@ -53,7 +53,7 @@ I'm a fullstack developer with a passion for cybersecurity, currently transition
 
 ---
 
-### [!NOTE]
+> [!NOTE]
 - 🧠 High-Ability Learner with **ADHD** - I hyperfocus on problems until they're solved!
 - 🌈 Proud member of the **LGBTQ+ community**
 - 💡 Out-of-the-box thinker with **exceptional problem-solving skills**
