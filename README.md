@@ -27,7 +27,7 @@ I'm a fullstack developer with a passion for cybersecurity, currently transition
   <img height="40" src="./icons/burpsuite-color.svg" alt="Burp Suite"/>
   <img height="40" src="./icons/owasp.svg" alt="OWASP ZAP"/>
   <img height="40" src="./icons/splunk.svg" alt="Splunk"/>
-  <img height="40" src="./icons/john.png" alt="John the Ripper"/>
+  <img height="40" src="./icons/johnripper.png" alt="John the Ripper"/>
   
 <!--   <a href="https://www.tcpdump.org/">
     <img height="40" src="./icons/tcpdump.svg" alt="TCPdump"/>
