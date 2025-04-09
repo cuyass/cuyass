@@ -5,19 +5,9 @@ I'm a fullstack developer with a passion for cybersecurity, currently transition
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
-#### Development
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
-[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-#### Cybersecurity Tools
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,java,spring,postgres,postman,vite,git,github,visualstudio,figma,bash,powershell,kali,linux)](https://skillicons.dev)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![TCPdump](https://img.shields.io/badge/TCPdump-1E90FF?style=flat)](https://www.tcpdump.org/)
 [![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)](https://nmap.org/)
@@ -44,7 +34,7 @@ I'm a fullstack developer with a passion for cybersecurity, currently transition
 ---
 
 ### Connect With Me
-> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariona-cuyas)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mariona-cuyas)
 ---
 > <img src="https://tryhackme-badges.s3.amazonaws.com/Cuyas.png" alt="Your Image Badge" />
 ---
