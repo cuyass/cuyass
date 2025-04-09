@@ -9,63 +9,63 @@ I'm a fullstack developer with a passion for cybersecurity, currently transition
 
 <p align="center">
 
-  <a href="https://skillicons.dev">
-    <img height="40" src="./icons/html5-color.svg" alt="HTML" style="text-decoration: none;"/>
+  <a href="https://skillicons.dev" style="text-decoration: none;">
+    <img height="40" src="./icons/html5-color.svg" alt="HTML"/>
   </a>
-  <a href="https://skillicons.dev">
-    <img height="40" src="./icons/css-color.svg" alt="CSS" style="text-decoration: none;"/>
+  <a href="https://skillicons.dev" style="text-decoration: none;">
+    <img height="40" src="./icons/css-color.svg" alt="CSS"/>
   </a>
-  <a href="https://skillicons.dev">
-    <img height="40" src="./icons/styledcomponents-color.svg" alt="Styled Components" style="text-decoration: none;"/>
+  <a href="https://skillicons.dev" style="text-decoration: none;">
+    <img height="40" src="./icons/styledcomponents-color.svg" alt="Styled Components"/>
   </a>
-  <a href="https://skillicons.dev">
-    <img height="40" src="./icons/javascript-color.svg" alt="JavaScript" style="text-decoration: none;"/>
+  <a href="https://skillicons.dev" style="text-decoration: none;">
+    <img height="40" src="./icons/javascript-color.svg" alt="JavaScript"/>
   </a>
-  <a href="https://skillicons.dev">
-    <img height="40" src="./icons/react-color.svg" alt="React" style="text-decoration: none;"/>
+  <a href="https://skillicons.dev" style="text-decoration: none;">
+    <img height="40" src="./icons/react-color.svg" alt="React"/>
   </a>
 <!--   <a href="https://skillicons.dev">
     <img height="40" src="./icons/java.svg" alt="Java"/> 
   </a> -->
-  <a href="https://skillicons.dev">
-    <img height="40" src="./icons/springboot-color.svg" alt="Spring" style="text-decoration: none;"/>
+  <a href="https://skillicons.dev" style="text-decoration: none;">
+    <img height="40" src="./icons/springboot-color.svg" alt="Spring"/>
   </a>
-  <a href="https://skillicons.dev">
-    <img height="40" src="./icons/postgresql-color.svg" alt="PostgreSQL" style="text-decoration: none;"/>
+  <a href="https://skillicons.dev" style="text-decoration: none;">
+    <img height="40" src="./icons/postgresql-color.svg" alt="PostgreSQL"/>
   </a>
-  <a href="https://skillicons.dev">
-    <img height="40" src="./icons/postman-color.svg" alt="Postman" style="text-decoration: none;"/>
+  <a href="https://skillicons.dev" style="text-decoration: none;">
+    <img height="40" src="./icons/postman-color.svg" alt="Postman"/>
   </a>
-  <a href="https://skillicons.dev">
-    <img height="40" src="./icons/vite-color.svg" alt="Vite" style="text-decoration: none;"/>
+  <a href="https://skillicons.dev" style="text-decoration: none;">
+    <img height="40" src="./icons/vite-color.svg" alt="Vite"/>
   </a>
-  <a href="https://skillicons.dev">
-    <img height="40" src="./icons/git-color.svg" alt="Git" style="text-decoration: none;"/>
+  <a href="https://skillicons.dev" style="text-decoration: none;">
+    <img height="40" src="./icons/git-color.svg" alt="Git"/>
   </a>
   <!-- <a href="https://skillicons.dev">
     <img height="40" src="./icons/vscode.svg" alt="VS Code"/>
   </a> -->
-  <a href="https://skillicons.dev">
-    <img height="40" src="./icons/figma-color.svg" alt="Figma" style="text-decoration: none;"/>
+  <a href="https://skillicons.dev" style="text-decoration: none;">
+    <img height="40" src="./icons/figma-color.svg" alt="Figma"/>
   </a>
   </a>
-  <a href="https://skillicons.dev">
-    <img height="40" src="./icons/kalilinux-color.svg" alt="Kali Linux" style="text-decoration: none;"/>
+  <a href="https://skillicons.dev" style="text-decoration: none;">
+    <img height="40" src="./icons/kalilinux-color.svg" alt="Kali Linux"/>
   </a>
-  <a href="https://skillicons.dev">
-    <img height="40" src="./icons/linux-color.svg" alt="Linux" style="text-decoration: none;"/>
+  <a href="https://skillicons.dev" style="text-decoration: none;">
+    <img height="40" src="./icons/linux-color.svg" alt="Linux"/>
   </a>
-  <a href="https://www.wireshark.org/">
-    <img height="40" src="./icons/wireshark-color.svg" alt="Wireshark" style="text-decoration: none;"/>
+  <a href="https://www.wireshark.org/" style="text-decoration: none;">
+    <img height="40" src="./icons/wireshark-color.svg" alt="Wireshark"/>
   </a>
-  <a href="https://portswigger.net/burp">
-    <img height="40" src="./icons/burpsuite-color.svg" alt="Burp Suite" style="text-decoration: none;"/>
+  <a href="https://portswigger.net/burp" style="text-decoration: none;">
+    <img height="40" src="./icons/burpsuite-color.svg" alt="Burp Suite"/>
   </a>
   <a href="https://www.zaproxy.org/">
     <img height="40" src="./icons/owasp.svg" alt="OWASP ZAP" style="text-decoration: none;"/>
   </a>
-  <a href="https://www.splunk.com/">
-    <img height="40" src="./icons/splunk.svg" alt="Splunk" style="text-decoration: none;"/>
+  <a href="https://www.splunk.com/" style="text-decoration: none;">
+    <img height="40" src="./icons/splunk.svg" alt="Splunk"/>
   </a>
 <!--   <a href="https://www.tcpdump.org/">
     <img height="40" src="./icons/tcpdump.svg" alt="TCPdump"/>
