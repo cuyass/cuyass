@@ -9,7 +9,7 @@ I'm a fullstack developer with a passion for cybersecurity, currently transition
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src=html,css,js,react,java,spring,postgres,postman,vite,git,github,visualstudio,figma,bash,powershell,kali,linux&perline=6 />
+    <img src="html,css,js,react,java,spring,postgres,postman,vite,git,github,visualstudio,figma,bash,powershell,kali,linux"&perline=6 />
   </a>
 </p>
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
