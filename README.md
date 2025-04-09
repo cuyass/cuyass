@@ -8,7 +8,7 @@ I'm a fullstack developer with a passion for cybersecurity, currently transition
 ### Tech Stack
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,java,spring,postgres,postman,vite,git,github,visualstudio,figma,bash,powershell,kali,linux&perline=10)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,java,spring,postgres,postman,vite,git,github,visualstudio,figma,bash,powershell,kali,linux&perline=10)](https://skillicons.dev)
 <br>[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![TCPdump](https://img.shields.io/badge/TCPdump-1E90FF?style=flat)](https://www.tcpdump.org/)
 [![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)](https://nmap.org/)
