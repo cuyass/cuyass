@@ -28,40 +28,14 @@ I'm a fullstack developer with a passion for cybersecurity, currently transition
   <img height="40" src="./icons/owasp.svg" alt="OWASP ZAP"/>
   <img height="40" src="./icons/splunk.svg" alt="Splunk"/>
   <img height="40" src="./icons/john.png" alt="John the Ripper"/>
-  
-<!--   <a href="https://www.tcpdump.org/">
-    <img height="40" src="./icons/tcpdump.svg" alt="TCPdump"/>
-  </a>
-  <a href="https://nmap.org/">
-    <img height="40" src="./icons/nmap.svg" alt="Nmap"/>
-  </a>
-  <a href="https://github.com/OJ/gobuster">
-    <img height="40" src="./icons/gobuster.svg" alt="Gobuster"/>
-  </a>
-  <a href="https://attack.mitre.org/">
-    <img height="40" src="./icons/mitre.svg" alt="MITRE ATT&CK"/>
-  </a>
-  <a href="https://www.openwall.com/john/">
-    
-  </a>
-  <a href="https://github.com/vanhauser-thc/thc-hydra">
-    <img height="40" src="./icons/hydra.svg" alt="Hydra"/>
-  </a> -->
+  <img height="40" src="./icons/hydra.svg" alt="Hydra"/>
+  <img height="40" src="./icons/mitre.svg" alt="MITRE ATT&CK"/>
 </p>
 
-<!-- 
-[![My Skills](https://skillicons.dev/icons?i=html,css,styledcomponents,js,react,java,spring,postgres,postman,vite,git,vscode,figma,bash,powershell,kali,linux&perline=10)](https://skillicons.dev)
-<br>[![Wireshark](#1679A7)](https://www.wireshark.org/)
 [![TCPdump](https://img.shields.io/badge/TCPdump-1E90FF?style=flat)](https://www.tcpdump.org/)
 [![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)](https://nmap.org/)
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat&logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
 [![Gobuster](https://img.shields.io/badge/Gobuster-FF4500?style=flat)](https://github.com/OJ/gobuster)
-[![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat&logo=owasp&logoColor=white)](https://www.zaproxy.org/)
-[![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)](https://www.splunk.com/)
-[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat)](https://attack.mitre.org/)
-[![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8A2BE2?style=flat)](https://www.openwall.com/john/)
-[![Hydra](https://img.shields.io/badge/Hydra-32CD32?style=flat)](https://github.com/vanhauser-thc/thc-hydra)
- -->
+
 ---
 
 ### Current Focus
