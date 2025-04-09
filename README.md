@@ -7,12 +7,8 @@ I'm a fullstack developer with a passion for cybersecurity, currently transition
 
 ### Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,postgres,postman,vite,git,github,visualstudio,figma,bash,powershell,kali,linux"&perline=6 />
-  </a>
 
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,java,spring,postgres,postman,vite,git,github,visualstudio,figma,bash,powershell,kali,linux&perline=6)][![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![TCPdump](https://img.shields.io/badge/TCPdump-1E90FF?style=flat)](https://www.tcpdump.org/)
 [![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)](https://nmap.org/)
 [![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat&logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
@@ -22,7 +18,7 @@ I'm a fullstack developer with a passion for cybersecurity, currently transition
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat)](https://attack.mitre.org/)
 [![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8A2BE2?style=flat)](https://www.openwall.com/john/)
 [![Hydra](https://img.shields.io/badge/Hydra-32CD32?style=flat)](https://github.com/vanhauser-thc/thc-hydra)
-</p>
+
 ---
 
 ### Current Focus
