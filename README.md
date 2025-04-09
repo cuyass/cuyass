@@ -13,18 +13,13 @@ I'm a fullstack developer with a passion for cybersecurity, currently transition
   <img height="40" src="./icons/styledcomponents-color.svg" alt="Styled Components"/>
   <img height="40" src="./icons/javascript-color.svg" alt="JavaScript"/>
   <img height="40" src="./icons/react-color.svg" alt="React"/>
-  
-<!--   <a href="https://skillicons.dev">
-    <img height="40" src="./icons/java.svg" alt="Java"/> 
-  </a> -->
+  <img height="40" src="./icons/java.svg" alt="Java"/>
   <img height="40" src="./icons/springboot-color.svg" alt="Spring"/>
   <img height="40" src="./icons/postgresql-color.svg" alt="PostgreSQL"/>
   <img height="40" src="./icons/postman-color.svg" alt="Postman"/>
   <img height="40" src="./icons/vite-color.svg" alt="Vite"/>
   <img height="40" src="./icons/git-color.svg" alt="Git"/>
-  <!-- <a href="https://skillicons.dev">
-    <img height="40" src="./icons/vscode.svg" alt="VS Code"/>
-  </a> -->
+  <img height="40" src="./icons/vscode.svg" alt="VS Code"/>
   <img height="40" src="./icons/figma-color.svg" alt="Figma"/>
   <img height="40" src="./icons/kalilinux-color.svg" alt="Kali Linux"/>
   <img height="40" src="./icons/linux-color.svg" alt="Linux"/>
@@ -32,6 +27,7 @@ I'm a fullstack developer with a passion for cybersecurity, currently transition
   <img height="40" src="./icons/burpsuite-color.svg" alt="Burp Suite"/>
   <img height="40" src="./icons/owasp.svg" alt="OWASP ZAP"/>
   <img height="40" src="./icons/splunk.svg" alt="Splunk"/>
+  <img height="40" src="./icons/john.png" alt="John the Ripper"/>
   
 <!--   <a href="https://www.tcpdump.org/">
     <img height="40" src="./icons/tcpdump.svg" alt="TCPdump"/>
@@ -46,7 +42,7 @@ I'm a fullstack developer with a passion for cybersecurity, currently transition
     <img height="40" src="./icons/mitre.svg" alt="MITRE ATT&CK"/>
   </a>
   <a href="https://www.openwall.com/john/">
-    <img height="40" src="./icons/johntheripper.svg" alt="John the Ripper"/>
+    
   </a>
   <a href="https://github.com/vanhauser-thc/thc-hydra">
     <img height="40" src="./icons/hydra.svg" alt="Hydra"/>
