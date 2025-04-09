@@ -8,65 +8,31 @@ I'm a fullstack developer with a passion for cybersecurity, currently transition
 ### Tech Stack
 
 <p align="center">
-
-  <a href="https://skillicons.dev" style="text-decoration: none;">
-    <img height="40" src="./icons/html5-color.svg" alt="HTML"/>
-  </a>
-  <a href="https://skillicons.dev" style="text-decoration: none;">
-    <img height="40" src="./icons/css-color.svg" alt="CSS"/>
-  </a>
-  <a href="https://skillicons.dev" style="text-decoration: none;">
-    <img height="40" src="./icons/styledcomponents-color.svg" alt="Styled Components"/>
-  </a>
-  <a href="https://skillicons.dev" style="text-decoration: none;">
-    <img height="40" src="./icons/javascript-color.svg" alt="JavaScript"/>
-  </a>
-  <a href="https://skillicons.dev" style="text-decoration: none;">
-    <img height="40" src="./icons/react-color.svg" alt="React"/>
-  </a>
+  <img height="40" src="./icons/html5-color.svg" alt="HTML"/>
+  <img height="40" src="./icons/css-color.svg" alt="CSS"/>
+  <img height="40" src="./icons/styledcomponents-color.svg" alt="Styled Components"/>
+  <img height="40" src="./icons/javascript-color.svg" alt="JavaScript"/>
+  <img height="40" src="./icons/react-color.svg" alt="React"/>
+  
 <!--   <a href="https://skillicons.dev">
     <img height="40" src="./icons/java.svg" alt="Java"/> 
   </a> -->
-  <a href="https://skillicons.dev" style="text-decoration: none;">
-    <img height="40" src="./icons/springboot-color.svg" alt="Spring"/>
-  </a>
-  <a href="https://skillicons.dev" style="text-decoration: none;">
-    <img height="40" src="./icons/postgresql-color.svg" alt="PostgreSQL"/>
-  </a>
-  <a href="https://skillicons.dev" style="text-decoration: none;">
-    <img height="40" src="./icons/postman-color.svg" alt="Postman"/>
-  </a>
-  <a href="https://skillicons.dev" style="text-decoration: none;">
-    <img height="40" src="./icons/vite-color.svg" alt="Vite"/>
-  </a>
-  <a href="https://skillicons.dev" style="text-decoration: none;">
-    <img height="40" src="./icons/git-color.svg" alt="Git"/>
-  </a>
+  <img height="40" src="./icons/springboot-color.svg" alt="Spring"/>
+  <img height="40" src="./icons/postgresql-color.svg" alt="PostgreSQL"/>
+  <img height="40" src="./icons/postman-color.svg" alt="Postman"/>
+  <img height="40" src="./icons/vite-color.svg" alt="Vite"/>
+  <img height="40" src="./icons/git-color.svg" alt="Git"/>
   <!-- <a href="https://skillicons.dev">
     <img height="40" src="./icons/vscode.svg" alt="VS Code"/>
   </a> -->
-  <a href="https://skillicons.dev" style="text-decoration: none;">
-    <img height="40" src="./icons/figma-color.svg" alt="Figma"/>
-  </a>
-  </a>
-  <a href="https://skillicons.dev" style="text-decoration: none;">
-    <img height="40" src="./icons/kalilinux-color.svg" alt="Kali Linux"/>
-  </a>
-  <a href="https://skillicons.dev" style="text-decoration: none;">
-    <img height="40" src="./icons/linux-color.svg" alt="Linux"/>
-  </a>
-  <a href="https://www.wireshark.org/" style="text-decoration: none;">
-    <img height="40" src="./icons/wireshark-color.svg" alt="Wireshark"/>
-  </a>
-  <a href="https://portswigger.net/burp" style="text-decoration: none;">
-    <img height="40" src="./icons/burpsuite-color.svg" alt="Burp Suite"/>
-  </a>
-  <a href="https://www.zaproxy.org/">
-    <img height="40" src="./icons/owasp.svg" alt="OWASP ZAP" style="text-decoration: none;"/>
-  </a>
-  <a href="https://www.splunk.com/" style="text-decoration: none;">
-    <img height="40" src="./icons/splunk.svg" alt="Splunk"/>
-  </a>
+  <img height="40" src="./icons/figma-color.svg" alt="Figma"/>
+  <img height="40" src="./icons/kalilinux-color.svg" alt="Kali Linux"/>
+  <img height="40" src="./icons/linux-color.svg" alt="Linux"/>
+  <img height="40" src="./icons/wireshark-color.svg" alt="Wireshark"/>
+  <img height="40" src="./icons/burpsuite-color.svg" alt="Burp Suite"/>
+  <img height="40" src="./icons/owasp.svg" alt="OWASP ZAP"/>
+  <img height="40" src="./icons/splunk.svg" alt="Splunk"/>
+  
 <!--   <a href="https://www.tcpdump.org/">
     <img height="40" src="./icons/tcpdump.svg" alt="TCPdump"/>
   </a>
