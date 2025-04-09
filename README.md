@@ -31,10 +31,11 @@ I'm a fullstack developer with a passion for cybersecurity, currently transition
   <img height="40" src="./icons/hydra.svg" alt="Hydra"/>
   <img height="40" src="./icons/mitre.svg" alt="MITRE ATT&CK"/>
 </p>
-
+<!--
 [![TCPdump](https://img.shields.io/badge/TCPdump-1E90FF?style=flat)](https://www.tcpdump.org/)
 [![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)](https://nmap.org/)
 [![Gobuster](https://img.shields.io/badge/Gobuster-FF4500?style=flat)](https://github.com/OJ/gobuster)
+-->
 
 ---
 
