@@ -1,7 +1,7 @@
 # Hi, I'm Marion! 
 
 ## WIP Full Stack Developer × Cybersecurity Analyst
-I'm a fullstack developer with a passion for cybersecurity, currently transitioning my career toward becoming a cybersecurity analyst. I love building secure applications and breaking into systems (ethically, of course!).
+I'm a fullstack developer with a passion for cybersecurity. I love building secure applications and breaking into systems (ethically, of course!).
 
 ---
 
