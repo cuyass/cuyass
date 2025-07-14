@@ -1,49 +1,62 @@
 # Hi, I'm Marion! 
 
-## WIP Full Stack Developer × Cybersecurity Analyst
+## Backend Developer × Ethical Hacker in Progress
 I'm a fullstack developer with a passion for cybersecurity. I love building secure applications and breaking into systems (ethically, of course!).
 
 ---
 
-### Tech Stack
+## Tech Stack
 
-<p align="center">
-  <img height="40" src="./icons/html5-color.svg" alt="HTML"/>
-  <img height="40" src="./icons/css-color.svg" alt="CSS"/>
-  <img height="40" src="./icons/styledcomponents-color.svg" alt="Styled Components"/>
-  <img height="40" src="./icons/javascript-color.svg" alt="JavaScript"/>
-  <img height="40" src="./icons/react-color.svg" alt="React"/>
-  <img height="40" src="./icons/java.svg" alt="Java"/>
-  <img height="40" src="./icons/springboot-color.svg" alt="Spring"/>
-  <img height="40" src="./icons/postgresql-color.svg" alt="PostgreSQL"/>
-  <img height="40" src="./icons/postman-color.svg" alt="Postman"/>
-  <img height="40" src="./icons/vite-color.svg" alt="Vite"/>
-  <img height="40" src="./icons/git-color.svg" alt="Git"/>
-  <img height="40" src="./icons/vscode.svg" alt="VS Code"/>
-  <img height="40" src="./icons/figma-color.svg" alt="Figma"/>
-  <img height="40" src="./icons/kalilinux-color.svg" alt="Kali Linux"/>
-  <img height="40" src="./icons/linux-color.svg" alt="Linux"/>
-  <img height="40" src="./icons/wireshark-color.svg" alt="Wireshark"/>
-  <img height="40" src="./icons/burpsuite-color.svg" alt="Burp Suite"/>
-  <img height="40" src="./icons/owasp.svg" alt="OWASP ZAP"/>
-  <img height="40" src="./icons/splunk.svg" alt="Splunk"/>
-  <img height="40" src="./icons/john.png" alt="John the Ripper"/>
-  <img height="40" src="./icons/hydra.svg" alt="Hydra"/>
-  <img height="40" src="./icons/mitre.svg" alt="MITRE ATT&CK"/>
-</p>
-<!--
-[![TCPdump](https://img.shields.io/badge/TCPdump-1E90FF?style=flat)](https://www.tcpdump.org/)
-[![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)](https://nmap.org/)
-[![Gobuster](https://img.shields.io/badge/Gobuster-FF4500?style=flat)](https://github.com/OJ/gobuster)
--->
+### Backend & Tools
+
+<img height="40" src="./icons/java.svg" alt="Java"/>
+<img height="40" src="./icons/springboot-color.svg" alt="Spring Boot"/>
+<img height="40" src="./icons/postgresql-color.svg" alt="PostgreSQL"/>
+<img height="40" src="./icons/postman-color.svg" alt="Postman"/>
+<img height="40" src="./icons/git-color.svg" alt="Git"/>
+<img height="40" src="./icons/linux-color.svg" alt="Linux"/>
+
+### Frontend
+
+<img height="40" src="./icons/html5-color.svg" alt="HTML"/>
+<img height="40" src="./icons/css-color.svg" alt="CSS"/>
+<img height="40" src="./icons/tailwindcss.svg" alt="TailwindCSS"/>
+<img height="40" src="./icons/javascript-color.svg" alt="JavaScript"/>
+<img height="40" src="./icons/react-color.svg" alt="React"/>
+<img height="40" src="./icons/vite-color.svg" alt="Vite"/>
+
+### Cybersecurity
+
+<img height="40" src="./icons/kalilinux-color.svg" alt="Kali Linux"/>
+<img height="40" src="./icons/wireshark-color.svg" alt="Wireshark"/>
+<img height="40" src="./icons/burpsuite-color.svg" alt="Burp Suite"/>
+<img height="40" src="./icons/owasp.svg" alt="OWASP"/>
+<img height="40" src="./icons/splunk.svg" alt="Splunk"/>
+<img height="40" src="./icons/john.png" alt="John the Ripper"/>
+<img height="40" src="./icons/hydra.svg" alt="Hydra"/>
+<img height="40" src="./icons/mitre.svg" alt="MITRE Foundation"/>
+
+### Testing & QA
+
+<img height="40" src="./icons/vitest.svg" alt="Vitest"/>
+<img height="40" src="./icons/JUnit.svg" alt="JUnit"/>
+<img height="40" src="./icons/playwright.svg" alt="Playwright"/>
+
+### Dev Tools
+
+<img height="40" src="./icons/vscode.svg" alt="VS Code"/>
+<img height="40" src="./icons/figma-color.svg" alt="Figma"/>
+  
+
 
 ---
 
 ### Current Focus
-- 📚 Studying for **CompTIA Security+** certification
-- 🔓 Conquering every room on **TryHackMe**
-- 🛠 Building projects that combine **web development** with **security principles**
-- 🔍 Expanding my knowledge in **threat hunting and incident response**
+
+- 🛠 Designing secure REST APIs with **Spring Boot**
+- 🔍 Implementing **OWASP Top 10** mitigations in backend projects
+- 📚 Preparing for **CompTIA Security+** & mastering network analysis
+- 🧠 Practicing privilege escalation & web exploitation on **TryHackMe**
 
 ---
 
@@ -59,7 +72,7 @@ I'm a fullstack developer with a passion for cybersecurity. I love building secu
 
 ---
 
-> [!NOTE]
+### About Me (Beyond Code)
 > 
 > Apart from building or breaking things, I'm also...
 > - A queer human navigating tech spaces
@@ -69,19 +82,3 @@ I'm a fullstack developer with a passion for cybersecurity. I love building secu
 
 ---
 
-
-
-<!--
-**cuyass/cuyass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
