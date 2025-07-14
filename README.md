@@ -54,9 +54,9 @@ I'm a fullstack developer with a passion for cybersecurity. I love building secu
 ### Connect With Me
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mariona-cuyas)
 ---
-<a href="https://tryhackme.com/p/Cuyas">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Cuyas.png" alt="TryHackMe Badge" />
-</a>
+
+[<img src="https://tryhackme-badges.s3.amazonaws.com/Cuyas.png" alt="TryHackMe Badge" />](https://tryhackme.com/p/Cuyas)
+
 ---
 
 > [!NOTE]
