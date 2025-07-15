@@ -9,7 +9,7 @@ I'm a fullstack developer with a passion for cybersecurity. I love building secu
 
 ### Backend
 
-<img height="40" src="./icons/java.svg" alt="Java"/><img height="40" src="./icons/springboot-color.svg" alt="Spring Boot"/> <img height="40" src="./icons/postgresql-color.svg" alt="PostgreSQL"/>  <img height="40" src="./icons/postman-color.svg" alt="Postman"/>
+<img height="40" src="./icons/java.svg" alt="Java"/><img height="40" src="./icons/springboot-color.svg" alt="Spring Boot"/> <img height="40" src="./icons/postgresql-color.svg" alt="PostgreSQL"/>  <img height="40" src="./icons/postman-color.svg" alt="Postman"/> <img height="40" src="./icons/Apache-Maven.svg" alt="Apache Maven"/>
 
 ### Frontend
 
