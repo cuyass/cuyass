@@ -1,6 +1,6 @@
 # Hi, I'm Marion! 
 
-## Backend Developer × Ethical Hacker in Progress
+## Fullstack Developer × Ethical Hacker in Progress
 I'm a fullstack developer with a passion for cybersecurity. I love building secure applications and breaking into systems (ethically, of course!).
 
 ---
