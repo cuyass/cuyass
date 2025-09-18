@@ -1,42 +1,31 @@
 # Hi, I'm Marion! 
 
-## Fullstack Developer × Ethical Hacker in Progress
-I'm a fullstack developer with a passion for cybersecurity. I love building secure applications and breaking into systems (ethically, of course!).
+## IT Systems and Network Administration Student × Future Cybersecurity Specialist
+
+I’m currently studying **Systems and Network Administration**, where I’m learning how to manage and secure IT infrastructures: from networks and servers to databases and cloud systems. My main goal is to combine this strong systems background with cybersecurity skills to build and protect reliable environments.
 
 ---
 
-## Tech Stack
+## Tech'n'Tools
 
-### Backend
-
-<img height="40" src="./icons/java.svg" alt="Java"/><img height="40" src="./icons/springboot-color.svg" alt="Spring Boot"/> <img height="40" src="./icons/postgresql-color.svg" alt="PostgreSQL"/>  <img height="40" src="./icons/postman-color.svg" alt="Postman"/> <img height="40" src="./icons/Apache-Maven.svg" alt="Apache Maven"/>
-
-### Frontend
-
-<img height="40" src="./icons/HTML5.svg" alt="HTML"/><img height="40" src="./icons/CSS3.svg" alt="CSS"/><img height="40" src="./icons/tailwindcss.svg" alt="TailwindCSS"/><img height="40" src="./icons/javascript-color.svg" alt="JavaScript"/>
-<img height="40" src="./icons/TypeScript.svg" alt="TypeScript"/><img height="40" src="./icons/react-color.svg" alt="React"/><img height="40" src="./icons/Vite.js.svg" alt="Vite"/>
-
-### Cybersecurity
-
-<img height="40" src="./icons/kalilinux-color.svg" alt="Kali Linux"/> <img height="40" src="./icons/burpsuite-color.svg" alt="Burp Suite"/> <img height="40" src="./icons/owasp.svg" alt="OWASP"/> <img height="40" src="./icons/wireshark-color.svg" alt="Wireshark"/> <img height="40" src="./icons/splunk.svg" alt="Splunk"/> <img height="40" src="./icons/hydra.svg" alt="Hydra"/> <img height="40" src="./icons/john.png" alt="John the Ripper"/><img height="40" src="./icons/mitre.svg" alt="MITRE Foundation"/>
-
-### Testing & QA
-
-<img height="40" src="./icons/vitest.svg" alt="Vitest"/> <img height="25" src="./icons/JUnit.svg" alt="JUnit"/> <img height="40" src="./icons/playwright.svg" alt="Playwright"/>
-
-### Dev Tools
-
-<img height="40" src="./icons/git-color.svg" alt="Git"/><img height="40" src="./icons/linux-color.svg" alt="Linux"/><img height="40" src="./icons/vscode.svg" alt="VS Code"/><img height="40" src="./icons/Figma.svg" alt="Figma"/><img height="40" src="./icons/Trello.svg" alt="Trello"/><img height="40" src="./icons/Jira.svg" alt="Jira"/>
+| **Systems & Networks** | Linux · Windows Server · Virtualization (VMware, VirtualBox) · Bash · PowerShell |
+| **Networking** | TCP/IP · VLANs · DNS · DHCP · Routing · Switching · Firewalls |
+| **Databases** | PostgreSQL |
+| **Cybersecurity** | Kali Linux · Burp Suite · Wireshark · Hydra · John the Ripper · OWASP · MITRE ATT&CK |
+| **Programming & Scripting** | Java · Spring Boot · Python · JavaScript · TypeScript · React |
+| **Dev Tools & Environment** | Git · VS Code · Jira · Trello · Figma |
   
 
 ---
 
 ### Current Focus
 
-- 🛠 Designing secure REST APIs with **Spring Boot**
-- 🔍 Implementing **OWASP Top 10** mitigations in backend projects
-- 📚 Preparing for **CompTIA Security+** & mastering network analysis
-- 🧠 Practicing privilege escalation & web exploitation on **TryHackMe**
+- Studying **ASIR (Systems and Network Administration)** with a specialization in cybersecurity and system administration  
+- Developing **Binary Odyssey**, a write-up diary where I keep up with what I'm learning (either at school or by myself)  
+- Strengthening skills in **Linux/Windows Server administration** and **network services**  
+- Implementing best practices in **system hardening and security monitoring**  
+- Preparing for the **CompTIA Security+** certification  
+- Practicing penetration testing and **privilege escalation** on platforms like TryHackMe  
 
 ---
 
@@ -44,7 +33,7 @@ I'm a fullstack developer with a passion for cybersecurity. I love building secu
 
 ---
 
-### Connect With Me
+### Get in Touch
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mariona-cuyas)
 ---
 
@@ -62,3 +51,4 @@ I'm a fullstack developer with a passion for cybersecurity. I love building secu
 
 ---
 
+Always open to connect, collaborate, and learn!
