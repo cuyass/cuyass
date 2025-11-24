@@ -1,45 +1,139 @@
-# Hi, I'm Marion! 
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hello,+World!;I+bet+you're+curious;about+what+I'm+going+to+say;well,+then;...+...;Sorry,+I+just+wanted+a+cool+sign;:);I+guess+you+will+have;to+keep+reading+below;<3" alt="Typing SVG" />
 
-## Backend junior with a splash of Frontend skills
-A die hard fan of secure code!
+</div>
 
----
+```bash
+root@marion:~$ whoami
+marion_cuyas
+root@marion:~$ cat profile.txt
+Backend Developer | Security Enthusiast | Code Breaker & Builder
+root@marion:~$ ls skills/
+backend/  frontend/  security/  systems/
+root@marion:~$ echo $PASSION
+"Learning new things, playing with code, building cool&secure stuff"
+root@marion:~$ ./start_session.sh
+Session initiated. Welcome!
+```
 
-## Tech'n'Tools
-
-| **Programming & Testing** | Java · Spring Boot · Python · JavaScript · TypeScript · React · Playwright · JUnit&Mockito |<br>
-| **Databases** | PostgreSQL |<br>
-| **Systems & Networks** | Linux · Windows Server · Virtualization (VMware, VirtualBox) · Bash · PowerShell |<br>
-| **Cybersecurity** | Kali Linux · Burp Suite · Wireshark · Hydra · John the Ripper · OWASP · MITRE ATT&CK |<br>
-| **Dev Tools & Environment** | Git · VS Code · Jira · Trello · Figma |<br>
-  
----
-
-### Current Focus
-
-- Developing my backend skills
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuyass&layout=compact&theme=radical)
+## 🛠️ Tech Arsenal
+
+<details open>
+<summary><b>💻 Programming & Frameworks</b></summary>
+<br>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Backend Infrastructure</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔒 Cybersecurity & Penetration Testing</b></summary>
+<br>
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-00ADD8?style=for-the-badge&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-005288?style=for-the-badge&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Systems & DevOps</b></summary>
+<br>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</details>
 
 ---
 
-### Get in Touch
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mariona-cuyas)
+## 🎯 Current Focus
+
+```java
+public class Marion {
+    private String currentFocus = "Mastering Backend Development";
+    private String[] learning = {"Spring Security", "Microservices", "Cloud Architecture"};
+    private boolean openToCollaborate = true;
+    
+    public void dailyRoutine() {
+        code();
+        breakThings();
+        learnFromMistakes();
+        repeat();
+    }
+}
+```
+
 ---
 
-[<img src="https://tryhackme-badges.s3.amazonaws.com/Cuyas.png" alt="TryHackMe Badge" />](https://tryhackme.com/p/Cuyas)
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cuyass&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF)
+
+</div>
+
 
 ---
 
-### About Me (Beyond Code)
- 
-> Apart from building or breaking things, I'm also...
-> - A queer human navigating tech spaces
-> - Finding unconventional solutions to conventional problems
-> - Convinced that diverse perspectives make for better security
+## 💭 Philosophy
 
----
+<div align="center">
 
-Always open to connect, collaborate, and learn!
+> **"Security is not a product, but a process."**  
+> *— Bruce Schneier*
+
+</div>
+
+```bash
+root@marion:~$ cat about_me.txt
+Identity: Queer human navigating tech spaces
+Approach: Unconventional solutions to conventional problems
+Belief: Diverse perspectives make better security
+Status: Always learning, always growing
+
+root@marion:~$ ./collaborate.sh
+-Open to connecting with amazing humans!
+-DMs are open for collaboration :)
+-Let's build something awesome or do some CTF!
+```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariona-cuyas)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Cuyas)
+```
+root@marion:~$ uptime
+Always online, always learning, always playing
+
+root@marion:~$ exit
+Thanks for visiting! Feel free to reach out anytime.
+Beep bop
+```
