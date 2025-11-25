@@ -115,6 +115,8 @@ public class Marion {
 
 I enjoy tinkering with computers and learning how they operate. In a world so digitalized it's crucial to have people that know how to fix, repair and secure them. Technology shapes our lives, and those who build it have a responsibility to protect it. That's why I'm here: to be part of that protection.
 
+---
+
 ```bash
 root@marion:~$ cat about_me.txt
 Identity: Queer human navigating tech spaces
