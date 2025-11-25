@@ -6,12 +6,22 @@
 ```bash
 root@marion:~$ whoami
 marion_cuyas
+
 root@marion:~$ cat profile.txt
 Backend Developer | Security Enthusiast | Code Breaker & Builder
+
 root@marion:~$ ls skills/
 backend/  frontend/  security/  systems/
+
+root@marion:~$ cat about_me.txt
+Identity: Queer human navigating tech spaces
+Approach: Unconventional solutions to conventional problems
+Belief: Diverse perspectives make better security
+Status: Drinking coffee
+
 root@marion:~$ echo $PASSION
 "Learning new things, playing with code, building cool&secure stuff"
+
 root@marion:~$ ./start_session.sh
 Session initiated. Welcome!
 ```
@@ -110,20 +120,17 @@ public class Marion {
 ---
 
 ## 💭 Philosophy
-
+<div align="center">
+    
 ![Marge](./assets/images/marge.jpg)
 
-I enjoy tinkering with computers and learning how they operate. In a world so digitalized it's crucial to have people that know how to fix, repair and secure them. Technology shapes our lives, and those who build it have a responsibility to protect it. That's why I'm here: to be part of that protection.
+</div>
+
+!I enjoy tinkering with computers and learning how they operate. In a world so digitalized it's crucial to have people that know how to fix, repair and secure them. Technology shapes our lives, and those who build it have a responsibility to protect it. That's why I'm here: to be part of that protection.
 
 ---
 
 ```bash
-root@marion:~$ cat about_me.txt
-Identity: Queer human navigating tech spaces
-Approach: Unconventional solutions to conventional problems
-Belief: Diverse perspectives make better security
-Status: Drinking coffee
-
 root@marion:~$ ./collaborate.sh
 Open to connecting with amazing humans!
 Let s build something awesome or do some CTF together :)
