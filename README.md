@@ -8,7 +8,7 @@ root@marion:~$ whoami
 marion_cuyas
 
 root@marion:~$ cat profile.txt
-Backend Developer | Security Enthusiast | Code Breaker & Builder
+Backend Developer | Security Enthusiast | SysAdmin Student | Code Breaker & Builder
 
 root@marion:~$ ls skills/
 backend/  frontend/  security/  systems/
