@@ -124,7 +124,7 @@ Status: Drinking coffee
 
 root@marion:~$ ./collaborate.sh
 Open to connecting with amazing humans!
-Let's build something awesome or do some CTF together :)
+Let s build something awesome or do some CTF together :)
 
 root@marion:~$ uptime
 Always online, always learning, always playing
