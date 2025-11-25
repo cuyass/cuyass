@@ -80,13 +80,16 @@ Session initiated. Welcome!
 
 ```java
 public class Marion {
-    private String currentFocus = "Mastering Backend Development";
-    private String[] learning = {"Spring Security", "Microservices", "Cloud Architecture"};
+    private String currentFocus = "Mastering Backend Development and Becoming a SysAdmin";
+    private String[] learning = {"Spring Security", "Hardware", "OS implementation"};
     private boolean openToCollaborate = true;
     
     public void dailyRoutine() {
+        coffee()
         code();
+        coffee()
         breakThings();
+        coffee()
         learnFromMistakes();
         repeat();
     }
@@ -99,7 +102,7 @@ public class Marion {
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cuyass&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cuyass&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF)
 
 </div>
 
@@ -108,32 +111,28 @@ public class Marion {
 
 ## 💭 Philosophy
 
-<div align="center">
+![Marge](./assets/images/marge.jpg)
 
-> **"Security is not a product, but a process."**  
-> *— Bruce Schneier*
-
-</div>
+I enjoy tinkering with computers and learning how they operate. In a world so digitalized it's crucial to have people that know how to fix, repair and secure them. Technology shapes our lives, and those who build it have a responsibility to protect it. That's why I'm here: to be part of that protection.
 
 ```bash
 root@marion:~$ cat about_me.txt
 Identity: Queer human navigating tech spaces
 Approach: Unconventional solutions to conventional problems
 Belief: Diverse perspectives make better security
-Status: Always learning, always growing
+Status: Drinking coffee
 
 root@marion:~$ ./collaborate.sh
--Open to connecting with amazing humans!
--DMs are open for collaboration :)
--Let's build something awesome or do some CTF!
-```
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariona-cuyas)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Cuyas)
-```
+Open to connecting with amazing humans!
+Let's build something awesome or do some CTF together :)
+
 root@marion:~$ uptime
 Always online, always learning, always playing
 
 root@marion:~$ exit
 Thanks for visiting! Feel free to reach out anytime.
-Beep bop
+Beep bop.
 ```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariona-cuyas)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Cuyas)
