@@ -8,10 +8,10 @@ root@marion:~$ whoami
 marion_cuyas
 
 root@marion:~$ cat profile.txt
-Backend Developer | Security Enthusiast | SysAdmin Student | Code Breaker & Builder
+Software Developer | Security Enthusiast | SysAdmin Student | Code Breaker & Builder
 
 root@marion:~$ ls skills/
-backend/  frontend/  security/  systems/
+frontend/  backend/  security/  systems/  design/
 
 root@marion:~$ cat about_me.txt
 Identity: Queer human navigating tech spaces
@@ -91,8 +91,8 @@ Session initiated. Welcome!
 
 ```java
 public class Marion {
-    private String currentFocus = "Mastering Backend Development and Becoming a SysAdmin";
-    private String[] learning = {"Spring Security", "Hardware", "OS implementation"};
+    private String currentFocus = "Working with Software Development and Becoming a SysAdmin";
+    private String[] learning = {"Hardware", "OS implementation", "Sustainability", "Database Management"};
     private boolean openToCollaborate = true;
     
     public void dailyRoutine() {
@@ -135,9 +135,6 @@ public class Marion {
 root@marion:~$ ./collaborate.sh
 Open to connecting with amazing humans!
 Let s build something awesome or do some CTF together :)
-
-root@marion:~$ uptime
-Always online, always learning, always playing
 
 root@marion:~$ exit
 Thanks for visiting! Feel free to reach out anytime.
